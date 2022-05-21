@@ -83,8 +83,6 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 [![GitHub Stats](http://github-readme-stats-ricardoorfao.vercel.app/api?username=ricardoorfao&theme=monokai&show_icons=true)](https://github.com/ricardoorfao/github-readme-stats)
 
-[![Top Langs](http://github-readme-stats-ricardoorfao.vercel.app/api/top-langs/?username=ricardoorfao&layout=compact&theme=monokai&show_icons=true)](https://github.com/ricardoorfao/github-readme-stats)
-
 </br>
 </br>
 
