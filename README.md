@@ -1,6 +1,6 @@
 # Hi there, I'm Ricardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<p align="center"><img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/></p>
+<p align="center"><img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/ricardo-órfão"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
@@ -84,7 +84,6 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 [![GitHub Stats](http://github-readme-stats-ricardoorfao.vercel.app/api?username=ricardoorfao&theme=monokai&show_icons=true)](https://github.com/ricardoorfao/github-readme-stats)
 
 </br>
-</br>
 
-<p align="center"><img src="https://media.giphy.com/media/G5h04AkAvAHcs/giphy.gif" width="100"/></p>
+<p align="center"><img src="https://media.giphy.com/media/G5h04AkAvAHcs/giphy.gif" width="300"/></p>
 <p align="center">
