@@ -81,7 +81,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ricardoorfao&theme=monokai&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoorfao&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoorfao&layout=compact&theme=monokai)](https://github.com/ricardoorfao)
 
 </br>
 </br>
